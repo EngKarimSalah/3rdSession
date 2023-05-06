@@ -9,6 +9,8 @@
             Console.WriteLine("after merging");
             Console.WriteLine("commit1");
             Console.WriteLine("commit3");
+            Console.WriteLine("commit2");
+
         }
     }
 }

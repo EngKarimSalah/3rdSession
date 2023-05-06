@@ -7,6 +7,7 @@
             Console.WriteLine("first from karim");
             Console.WriteLine("first from hossam");
             Console.WriteLine("after merging");
+            Console.WriteLine("commit1");
         }
     }
 }
